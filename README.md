@@ -1,0 +1,1 @@
+# Gdevelop's "Space Shooter" example exported with Cocos2d-JS (nonfunctional)
